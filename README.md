@@ -1,18 +1,9 @@
 #Game Description
 
 This is a simple Android game where you control Mario. The objective of the game is to collect coins and avoid hitting obstacles.
-
-
-https://github.com/amitm144/mario/assets/87026850/cdc09ce5-b2c2-4353-aec1-2b3093e3def3
-
-
-https://github.com/amitm144/mario/assets/87026850/d4b1859b-9a40-458a-ac5e-f9277a4fcb4d
-
-
-
-https://github.com/amitm144/mario/assets/87026850/1c618fd5-94c5-4dc9-ba85-3d02df3a3d7e
-
-
+![unnamed](https://github.com/amitm144/mario/assets/87026850/5bf572c5-51f5-4f5b-a8ac-f53b841b721e)
+![23-05-14-19-13-43_02](https://github.com/amitm144/mario/assets/87026850/7c8344f6-10cf-49e0-bd86-a68d4454a76d)
+![23-05-14-19-19-09_01](https://github.com/amitm144/mario/assets/87026850/856cb8d9-5faa-4f66-b02e-9011f897f956)
 
 Key Features:
 
